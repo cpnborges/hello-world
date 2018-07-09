@@ -1,0 +1,44 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	}
+	li {
+	float: left;
+		}
+	li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+			}
+	li a:hover {
+	background-color: #4CAF50;
+			}
+		p {
+			font-family: Arial, Helvetica;
+		}
+		h1 {
+			font-family: Times New Roman, Times;
+		}
+		h2 {
+			font-family: Times New Roman, Times;
+		}
+		h3 {
+			font-family: Times New Roman, Times;
+		}
+			p {
+				font-size: 14px;
+			}
+			h1 {
+				font-size: 22px;
+			}
+			h2 {
+				font-size: 18px;
+			}
+			h3 {
+				font-size: 16px;
+			}
